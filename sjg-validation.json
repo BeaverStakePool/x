@@ -4,5 +4,5 @@
 "discordId":"357005255587790848",
 "pool-list":"true",
 "poolMetaData":"https://github.com/BeaverPool/c/blob/master/x.json",
-"validation":"https://github.com/BeaverStakePool/x/sjg-validation.json"
+"validation":"https://raw.githubusercontent.com/BeaverStakePool/x/main/sjg-validation.json"
 }
