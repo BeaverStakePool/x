@@ -1,0 +1,8 @@
+{
+"name":"Beaver ビーバー (BEAVR) kuronic#6753",
+"ticker":"BEAVR",
+"discordId":"357005255587790848",
+"pool-list":"true",
+"poolMetaData":"https://github.com/BeaverPool/c/blob/master/x.json",
+"validation":"https://github.com/BeaverStakePool/x/sjg-validation.json"
+}
